@@ -11,3 +11,10 @@ __Default Behavior:__
 
 https://user-images.githubusercontent.com/67604207/183721245-b168d62e-38cf-4878-8edf-82d7910fc7d3.mp4
 
+__Stand Vertically:__
+
+https://user-images.githubusercontent.com/67604207/183721727-e60e309f-ae32-4c89-9bcb-1eab2e224acd.mp4
+
+__Front-Flip:__
+
+https://user-images.githubusercontent.com/67604207/183721805-29e3dc3c-312c-4805-8817-a14c03abe17b.mp4
