@@ -5,7 +5,7 @@ __Multi-Tasking concept:__
 CEM is a derivative-free optimizer which searches for optimal actions by iteratively generating random action sequences and evaluating them with fitted observation and reward models. 
 First action from elite (by total rewards sum) sequence is then executed. 
 
-By replacing rewards given with fitted reward model by some user defined function we can alter RL agent's behavior without the need of retraining any model. Thus, achieving multi-task agent. 
+By replacing rewards calculated by fitted reward model with some user defined function we can alter RL agent's behavior without the need of retraining any model. Thus, achieving multi-task agent. 
 
 __Default Behavior:__
 
