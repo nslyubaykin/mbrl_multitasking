@@ -1,5 +1,7 @@
 # Model-Based RL Multi-Tasking with [ReLAx](https://github.com/nslyubaykin/relax)
 
+This repository contains an [implementation](https://github.com/nslyubaykin/mbrl_multitasking/blob/master/mbrl_multitasking.ipynb) of multi-tasking with CEM actor.
+
 __Multi-Tasking concept:__
 
 CEM is a derivative-free optimizer which searches for optimal actions by iteratively generating random action sequences and evaluating them with fitted observation and reward models. 
